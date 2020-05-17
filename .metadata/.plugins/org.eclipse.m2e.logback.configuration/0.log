@@ -1,0 +1,7 @@
+2020-05-16 21:23:38,417 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:TestIntegration:0.0.1-SNAPSHOT @ C:\GitProjects\TestIntegration\pom.xml.
+2020-05-16 21:23:40,007 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:TestIntegration:0.0.1-SNAPSHOT @ C:\GitProjects\TestIntegration\pom.xml.
+2020-05-16 21:23:40,008 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestIntegration/src/main/java
+2020-05-16 21:23:40,010 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TestIntegration/src/main/resources
+2020-05-16 21:23:40,042 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestIntegration/src/test/java
+2020-05-16 21:23:40,073 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TestIntegration/src/test/resources
+2020-05-16 21:23:40,377 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
