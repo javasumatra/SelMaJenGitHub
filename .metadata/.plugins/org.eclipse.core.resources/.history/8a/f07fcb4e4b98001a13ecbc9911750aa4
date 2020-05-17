@@ -10,10 +10,10 @@ public class MortgageTests {
 	}
 	@Test
 	public void CarLoanCheck(){
-		System.out.println("My CarLoan Account");
+		System.out.println("My Mortgage Account");
 	}
 	@Test
 	public void BusinessLoanCheck(){
-		System.out.println("My BusinessfLoan Account");
+		System.out.println("My Mortgage Account");
 	}
 }
